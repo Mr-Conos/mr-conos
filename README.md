@@ -7,8 +7,7 @@
 
 <h2>📘 Information About Me 📘</h2>
 <p>High School Student</p>
-<p>Owner of BullyMe <i>(A discord Bot)</i> https://bullyme.xyz</p>
-<p>Owner of Rock API <i>(Public Repo)</i></p>
+
 
 </div> 
 
